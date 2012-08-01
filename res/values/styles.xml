@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="JellyBeanThemeTemplate" parent="@android:style/Theme" />
+    <style name="Black" parent="@android:style/Theme" />
     <style name="TextAppearance.StatusBar.Title" parent="@android:style/TextAppearance.StatusBar.Icon">
         <item name="android:textAppearance">?android:textAppearanceSmall</item>
         <item name="android:textStyle">bold</item>
