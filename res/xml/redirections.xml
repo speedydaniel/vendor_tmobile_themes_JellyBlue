@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme-redirections
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:pluto="http://www.w3.org/2001/pluto.html">
+
+    <package-redirections 
+        android:name="android"
+        android:resource="@xml/android"
+        android:minSdkVersion="14" />
+
+    <package-redirections
+        android:name="com.android.settings"
+        android:resource="@xml/com_android_settings"
+        android:minSdkVersion="14" />
+
+    <package-redirections
+        android:name="com.android.systemui"
+        android:resource="@xml/com_android_systemui"
+        android:minSdkVersion="14" />
+
+    <package-redirections
+        android:name="com.android.gallery3d"
+        android:resource="@xml/com_android_gallery3d"
+        android:minSdkVersion="14" />
+
+</theme-redirections>
