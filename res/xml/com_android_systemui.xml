@@ -9,13 +9,13 @@
 	<item name="drawable/status_bar_close_off">@drawable/com_android_systemui_status_bar_close_off</item>
 	<item name="drawable/status_bar_close_on">@drawable/com_android_systemui_status_bar_close_on</item>
 	<item name="drawable/status_bar_hr">@drawable/com_android_systemui_status_bar_hr</item>
-	<item name="drawable/notification_number_text_color">@drawable/notification_number_text_color">#ffffffff</item>
+	<item name="drawable/notification_number_text_color">@drawable/notification_number_text_color</item>
     <item name="drawable/ticker_background_color">@drawable/ticker_background_color</item>
     <item name="drawable/status_bar_background">@drawable/status_bar_background</item>
 	<item name="drawable/notification_header_bg">@drawable/notification_header_bg</item>
     <item name="drawable/status_bar_recents_app_thumbnail_background">@drawable/status_bar_recents_app_thumbnail_background</item>
-    <item name="drawablestatus_bar_notification_row_background_color"/>@drawable/status_bar_notification_row_background_color</item>
-    <item name="drawablerecents_callout_line"/>@drawable/recents_callout_line</item>
+    <item name="drawablestatus_bar_notification_row_background_color">@drawable/status_bar_notification_row_background_color</item>
+    <item name="drawablerecents_callout_line">@drawable/recents_callout_line</item>
     <item name="drawable/notification_item_background_legacy_color">@drawable/notification_item_background_legacy_color</item>
     <item name="drawable/intruder_bg_pressed">@drawable/intruder_bg_pressed</item>
     <item name="drawable/system_bar_background">@drawable/system_bar_background</item>
