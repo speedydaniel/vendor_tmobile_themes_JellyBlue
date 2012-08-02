@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+	<item name="drawable/background_dial_holo_dark">@drawable/frameworks_res_background_holo_dark</item>
+	
+</resource-redirections>
