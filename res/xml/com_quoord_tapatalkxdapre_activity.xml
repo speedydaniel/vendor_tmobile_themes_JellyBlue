@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/splash">@drawable/splash1</item>
+	<item name="color/dark_background">@color/xda_background</item>
+    <item name="color/orange">@color/xda_font</item>
+	<item name="drawable/tab_select">@drawable/com_quoord_tapatalkxdapre_activity_tab_select</item>
+	<item name="drawable/dark_header">@drawable/com_quoord_tapatalkxdapre_activity_dark_header</item>
+	<item name="drawable/tab_unselect">@drawable/com_quoord_tapatalkxdapre_activity_tab_unselect</item>
+</resource-redirections>

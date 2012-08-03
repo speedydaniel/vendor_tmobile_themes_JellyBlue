@@ -16,5 +16,15 @@
         android:name="com.android.contacts"
         android:resource="@xml/com_android_contacts"
         android:minSdkVersion="14" />
+		
+	<package-redirections
+        android:name="com.quoord.tapatalkxda.activity"
+        android:resource="@xml/com_quoord_tapatalkxda_activity"
+        android:minSdkVersion="14" />
+
+    <package-redirections
+        android:name="com.quoord.tapatalkxdapre.activity"
+        android:resource="@xml/com_quoord_tapatalkxdapre_activity"
+        android:minSdkVersion="14" />
 
 </theme-redirections>
