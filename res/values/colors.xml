@@ -2,4 +2,10 @@
 <resources>
 	<color name="xda_background">#ff000000</color>
     <color name="xda_font">#ffffffff</color>
+<!--swype colors-->
+	<color name="trace_color">#ffffffff</color>
+	<color name="about_swype_links">#ffffffff</color>
+	<color name="word_inline_background_color">#ffffffff</color>
+	<color name="candidate_recommended">#ffffffff</color>
+	<color name="ver_candidate_recommended">#ffffffff</color>
 </resources>
