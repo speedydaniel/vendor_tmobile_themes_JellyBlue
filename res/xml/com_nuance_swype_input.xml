@@ -7,25 +7,26 @@
 	<item name="color/candidate_recommended">@color/candidate_recommended</item>
 	<item name="color/ver_candidate_recommended">@color/ver_candidate_recommended</item>
 <!-- drawables -->
-	<item name="drawable/btn_keyboard_action_key_checked">@drawable/com_nuance_swype_btn_keyboard_action_key_checked</item>
-	<item name="drawable/btn_keyboard_action_key_normal">@drawable/com_nuance_swype_btn_keyboard_action_key_normal</item>
-	<item name="drawable/btn_keyboard_action_key_pressed">@drawable/com_nuance_swype_btn_keyboard_action_key_pressed</item>
-	<item name="drawable/btn_keyboard_key_normal">@drawable/com_nuance_swype_btn_keyboard_key_normal</item>
-	<item name="drawable/btn_keyboard_key_pressed">@drawable/com_nuance_swype_btn_keyboard_key_pressed</item>
-	<item name="drawable/glow">@drawable/com_nuance_swype_glow</item>
+classic_btn_keyboard_action_key_checked.9
+	<item name="drawable/classic_btn_keyboard_action_key_checked">@drawable/com_nuance_swype_btn_keyboard_action_key_checked</item>
+	<item name="drawable/classic_btn_keyboard_action_key_normal">@drawable/com_nuance_swype_btn_keyboard_action_key_normal</item>
+	<item name="drawable/classic_btn_keyboard_action_key_pressed">@drawable/com_nuance_swype_btn_keyboard_action_key_pressed</item>
+	<item name="drawable/classic_btn_keyboard_key_normal">@drawable/com_nuance_swype_btn_keyboard_key_normal</item>
+	<item name="drawable/classic_btn_keyboard_key_pressed">@drawable/com_nuance_swype_btn_keyboard_key_pressed</item>
+	<item name="drawable/glow_orange">@drawable/com_nuance_swype_glow</item>
 	<item name="drawable/highlight_pressed">@drawable/com_nuance_swype_highlight_pressed</item>
 	<item name="drawable/keyboard_background">@drawable/com_nuance_swype_keyboard_background</item>
 	<item name="drawable/keyboard_background_tiled">@drawable/com_nuance_swype_keyboard_background_tiled</item>
 	<item name="drawable/keyboard_suggest_strip">@drawable/com_nuance_swype_keyboard_suggest_strip</item>
 	<item name="drawable/keyboard_suggest_strip_divider">@drawable/com_nuance_swype_keyboard_suggest_strip_divider</item>
 	<item name="drawable/keyboard_suggest_ver_strip_divider">@drawable/com_nuance_swype_keyboard_suggest_ver_strip_divider</item>
-	<item name="drawable/keyboard_swype_logo">@drawable/com_nuance_swype_keyboard_swype_logo</item>
-	<item name="drawable/keyboard_swype_logo_5row">@drawable/com_nuance_swype_keyboard_swype_logo_5row</item>
+	<item name="drawable/keyboard_swype_logo_orange">@drawable/com_nuance_swype_keyboard_swype_logo</item>
+	<item name="drawable/keyboard_swype_logo_5row_orange">@drawable/com_nuance_swype_keyboard_swype_logo_5row</item>
 	<item name="drawable/list_selector_background_pressed">@drawable/com_nuance_swype_list_selector_background_pressed</item>
 	<item name="drawable/record_done">@drawable/com_nuance_swype_record_done</item>
 	<item name="drawable/record_done_press">@drawable/com_nuance_swype_record_done_press</item>
 	<item name="drawable/swype_icon">@drawable/com_nuance_swype_swype_icon</item>
-	<item name="drawable/sym_keyboard_feedback_speech_dragon">@drawable/com_nuance_swype_sym_keyboard_feedback_speech_dragon</item>
+	<item name="drawable/sym_keyboard_feedback_speech_dragon_dark">@drawable/com_nuance_swype_sym_keyboard_feedback_speech_dragon</item>
 	<item name="drawable/sym_keyboard_speech_dragon">@drawable/com_nuance_swype_sym_keyboard_speech_dragon</item>
 	<item name="drawable/vis01">@drawable/com_nuance_swype_vis01</item>
 	<item name="drawable/vis02">@drawable/com_nuance_swype_vis02</item>
