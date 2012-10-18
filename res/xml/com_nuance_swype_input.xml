@@ -7,7 +7,6 @@
 	<item name="color/candidate_recommended">@color/candidate_recommended</item>
 	<item name="color/ver_candidate_recommended">@color/ver_candidate_recommended</item>
 <!-- drawables -->
-classic_btn_keyboard_action_key_checked.9
 	<item name="drawable/classic_btn_keyboard_action_key_checked">@drawable/com_nuance_swype_btn_keyboard_action_key_checked</item>
 	<item name="drawable/classic_btn_keyboard_action_key_normal">@drawable/com_nuance_swype_btn_keyboard_action_key_normal</item>
 	<item name="drawable/classic_btn_keyboard_action_key_pressed">@drawable/com_nuance_swype_btn_keyboard_action_key_pressed</item>
@@ -34,4 +33,5 @@ classic_btn_keyboard_action_key_checked.9
 	<item name="drawable/vis04">@drawable/com_nuance_swype_vis04</item>
 	<item name="drawable/vis05">@drawable/com_nuance_swype_vis05</item>
 	<item name="drawable/vis06">@drawable/com_nuance_swype_vis06</item>
+	<item name="drawable/classic_theme_preview">@drawable/classic_theme_preview</item>
 </resource-redirections>
