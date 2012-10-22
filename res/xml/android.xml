@@ -14,7 +14,8 @@
 	<item name="drawable/switch_thumb_holo_light">@drawable/frameworks_res_switch_thumb_holo_light</item>
 	<item name="drawable/switch_thumb_pressed_holo_dark">@drawable/frameworks_res_switch_thumb_pressed_holo_dark</item>
 	<item name="drawable/switch_thumb_pressed_holo_light">@drawable/frameworks_res_switch_thumb_pressed_holo_light</item>
-
+	<item name="drawable/platlogo">@drawable/frameworks_res_platlogo</item>
+	<item name="drawable/platlogo_alt">@drawable/frameworks_res_platlogo_alt</item>
 
 	<item name="drawable/progress_horizontal">@drawable/frameworks_res_progress_horizontal</item>
 	<item name="drawable/ab_bottom_solid_dark_holo">@drawable/frameworks_res_ab_bottom_solid_dark_holo</item>
@@ -257,4 +258,5 @@
 	<item name="style/Theme.Holo.Light.Dialog">android:style/Theme.Holo.Dialog</item>
 	<item name="style/Theme.Holo.Light.Dialog.Alert">android:style/Theme.Holo.Dialog.Alert</item>
 	<item name="style/TextAppearance.Holo.Widget.Switch">@style/TextAppearance.Holo.Widget.Switch</item>
+	<item name="style/TextAppearance.Small">@style/TextAppearance.Small</item>
 </resource-redirections>
