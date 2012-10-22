@@ -9,7 +9,7 @@
         <item name="android:textSize">14.0dip</item>
         <item name="android:textColor">#ff33B5E5</item>
     </style>
-    <style name="TextAppearance.StatusBar" parent="@style/TextAppearance">
+    <style name="TextAppearance.StatusBar" parent="@android:style/TextAppearance">
         <item name="textAppearance">?textAppearanceSmall</item>
     </style>
     <style name="TextAppearance.Small" parent="@android:style/TextAppearance">
