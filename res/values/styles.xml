@@ -4,11 +4,12 @@
     <style name="TextAppearance.Holo.Widget.Switch" parent="@android:style/TextAppearance.Holo.Small">
         <item name="android:textColor">#ff000000</item>
     </style>
-	<style name="TextAppearance.StatusBar.PhoneTicker" parent="@android:style/Animation.PopupWindow">
+    <style name="Animation.PopupWindow" parent="@android:style/Animation" />
+    <style name="TextAppearance.StatusBar.PhoneTicker" parent="@style/Animation.PopupWindow">
         <item name="android:textSize">14.0dip</item>
         <item name="android:textColor">#ff33B5E5</item>
     </style>
-	<style name="TextAppearance.Small" parent="@android:style/TextAppearance">
+    <style name="TextAppearance.Small" parent="@android:style/TextAppearance">
         <item name="android:textSize">14.0sp</item>
         <item name="android:textColor">#ff33B5E5</item>
     </style>
@@ -18,14 +19,14 @@
         <item name="android:textStyle">normal</item>
         <item name="android:textColor">@android:color/holo_blue_light</item>
     </style>
-	<style name="TextAppearance.StatusBar.Expanded.Clock">
+	<style name="TextAppearance.StatusBar.Expanded.Clock" parent="@android:style/TextAppearance.StatusBar">
         <item name="android:textSize">32dp</item>
         <item name="android:fontFamily">sans-serif-light</item>
         <item name="android:textStyle">normal</item>
         <item name="android:textColor">@android:color/holo_blue_light</item>
     </style>
 
-    <style name="TextAppearance.StatusBar.Expanded.Date">
+    <style name="TextAppearance.StatusBar.Expanded.Date" parent="@android:style/TextAppearance.StatusBar">
         <item name="android:textSize">12dp</item>
         <item name="android:textStyle">normal</item>
         <item name="android:textColor">#ff2EA2CC</item>
