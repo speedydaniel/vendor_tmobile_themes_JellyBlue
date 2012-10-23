@@ -17,6 +17,7 @@
 	<item name="drawable/platlogo">@drawable/frameworks_res_platlogo</item>
 	<item name="drawable/platlogo_alt">@drawable/frameworks_res_platlogo_alt</item>
 
+	<item name="drawable/default_wallpaper">@drawable/frameworks_res_default_wallpaper</item>
 	<item name="drawable/progress_horizontal">@drawable/frameworks_res_progress_horizontal</item>
 	<item name="drawable/ab_bottom_solid_dark_holo">@drawable/frameworks_res_ab_bottom_solid_dark_holo</item>
 	<item name="drawable/ab_bottom_solid_inverse_holo">@drawable/frameworks_res_ab_bottom_solid_inverse_holo</item>
