@@ -8,4 +8,7 @@
 	<color name="word_inline_background_color">#ffffffff</color>
 	<color name="candidate_recommended">#ffffffff</color>
 	<color name="ver_candidate_recommended">#ffffffff</color>
+	<!-- mms colors -->
+	<color name="message_recieved">#ff33B5E5</color>
+	<color name="message_sent">#ffffffff</color>
 </resources>

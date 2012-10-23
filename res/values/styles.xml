@@ -2,15 +2,11 @@
 <resources>
     <style name="Black" parent="@android:style/Theme" />
     <style name="TextAppearance.Holo.Widget.Switch" parent="@android:style/TextAppearance.Holo.Small">
-        <item name="android:textColor">#ff000000</item>
+        <item name="android:textColor">#ff33B5E5</item>
     </style>
     <style name="Animation.PopupWindow" parent="@android:style/Animation" />
     <style name="TextAppearance.StatusBar.PhoneTicker" parent="@style/Animation.PopupWindow">
         <item name="android:textSize">14.0dip</item>
-        <item name="android:textColor">#ff33B5E5</item>
-    </style>
-    <style name="TextAppearance.Small" parent="@android:style/TextAppearance">
-        <item name="android:textSize">14.0sp</item>
         <item name="android:textColor">#ff33B5E5</item>
     </style>
 	<style name="TextAppearance.StatusBar.BatteryTextOnly_Plugged" parent="@android:style/TextAppearance.StatusBar.Icon">
