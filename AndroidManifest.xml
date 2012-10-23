@@ -35,7 +35,7 @@
         pluto:preview="@drawable/preview"
         pluto:author="@string/author"
         pluto:copyright="@string/copyright"
-        pluto:wallpaperImage="@drawable/homescreen"
+        pluto:wallpaperImage="@drawable/frameworks_res_default_wallpaper"
         pluto:styleName="@string/style_appearance_name">
 
         <!-- Currently this is not being read, but instead the redirections are

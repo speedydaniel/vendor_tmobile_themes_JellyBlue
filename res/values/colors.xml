@@ -11,4 +11,8 @@
 	<!-- mms colors -->
 	<color name="message_recieved">#ff33B5E5</color>
 	<color name="message_sent">#ffffffff</color>
+	<color name="widget_sender_text_color_read">#dfdfdf</color>
+	<color name="widget_sender_text_color_unread">#efefef</color>
+	<color name="widget_subject_text_color_read">#ffffff</color>
+	<color name="widget_subject_text_color_unread">#33B5E5</color>
 </resources>
