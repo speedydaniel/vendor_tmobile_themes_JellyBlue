@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ # Copyright (C) 2010, T-Mobile USA, Inc.
+ #
+ # Licensed under the Apache License, Version 2.0 (the "License");
+ # you may not use this file except in compliance with the License.
+ # You may obtain a copy of the License at
+ #
+ #      http://www.apache.org/licenses/LICENSE-2.0
+ #
+ # Unless required by applicable law or agreed to in writing, software
+ # distributed under the License is distributed on an "AS IS" BASIS,
+ # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ # See the License for the specific language governing permissions and
+ # limitations under the License.
+ -->
+ 
+<resource-redirections>
+	<item name="drawable/mic_icon_pressed_wh">@drawable/com_anydo_mic_icon_pressed_wh</item>
+	<item name="drawable/mic_icon_small_pressed_wh">@drawable/com_anydo_mic_icon_small_pressed_wh</item>
+	<item name="drawable/mic_icon_small_wh">@drawable/com_anydo_mic_icon_small_wh</item>
+	<item name="drawable/mic_icon_wh">@drawable/com_anydo_mic_icon_wh</item>
+	<item name="drawable/notification_widget_logo_0">@drawable/com_anydo_notification_widget_logo_0</item>
+	<item name="drawable/notification_widget_logo_1">@drawable/com_anydo_notification_widget_logo_1</item>
+	<item name="drawable/notification_widget_logo_2">@drawable/com_anydo_notification_widget_logo_2</item>
+	<item name="drawable/notification_widget_logo_3">@drawable/com_anydo_notification_widget_logo_3</item>
+	<item name="drawable/notification_widget_logo_4">@drawable/com_anydo_notification_widget_logo_4</item>
+	<item name="drawable/notification_widget_logo_5">@drawable/com_anydo_notification_widget_logo_5</item>
+	<item name="drawable/quick_set_alert">@drawable/com_anydo_quick_set_alert</item>
+	<item name="drawable/quick_set_alert_pressed">@drawable/com_anydo_quick_set_alert_pressed</item>
+	<item name="drawable/quick_set_folder_pressed">@drawable/com_anydo_quick_set_folder_pressed</item>
+	<item name="drawable/quick_set_notes_0">@drawable/com_anydo_quick_set_notes_0</item>
+	<item name="drawable/quick_set_notes_0_pressed">@drawable/com_anydo_quick_set_notes_0_pressed</item>
+	<item name="drawable/quick_set_notes_1">@drawable/com_anydo_quick_set_notes_1</item>
+	<item name="drawable/quick_set_notes_1_pressed">@drawable/com_anydo_quick_set_notes_1_pressed</item>
+	<item name="drawable/quick_set_notes_2">@drawable/com_anydo_quick_set_notes_2</item>
+	<item name="drawable/quick_set_notes_2_pressed">@drawable/com_anydo_quick_set_notes_2_pressed</item>
+	<item name="drawable/quick_set_notes_3">@drawable/com_anydo_quick_set_notes_3</item>
+	<item name="drawable/quick_set_notes_3_pressed">@drawable/com_anydo_quick_set_notes_3_pressed</item>
+	<item name="drawable/quick_set_notes_4">@drawable/com_anydo_quick_set_notes_4</item>
+	<item name="drawable/quick_set_notes_4_pressed">@drawable/com_anydo_quick_set_notes_4_pressed</item>
+	<item name="drawable/quick_set_notes_5">@drawable/com_anydo_quick_set_notes_5</item>
+	<item name="drawable/quick_set_notes_5_pressed">@drawable/com_anydo_quick_set_notes_5_pressed</item>
+	<item name="drawable/quick_set_notes_6">@drawable/com_anydo_quick_set_notes_6</item>
+	<item name="drawable/quick_set_notes_6_pressed">@drawable/com_anydo_quick_set_notes_6_pressed</item>
+	<item name="drawable/quick_set_priority">@drawable/com_anydo_quick_set_priority</item>
+	<item name="drawable/quick_set_priority_pressed">@drawable/com_anydo_quick_set_priority_pressed</item>
+	<item name="drawable/quick_set_share_0">@drawable/com_anydo_quick_set_share_0</item>
+	<item name="drawable/quick_set_share_0_pressed">@drawable/com_anydo_quick_set_share_0_pressed</item>
+	<item name="drawable/quick_set_share_1">@drawable/com_anydo_quick_set_share_1</item>
+	<item name="drawable/quick_set_share_1_pressed">@drawable/com_anydo_quick_set_share_1_pressed</item>
+	<item name="drawable/quick_set_share_2">@drawable/com_anydo_quick_set_share_2</item>
+	<item name="drawable/quick_set_share_2_pressed">@drawable/com_anydo_quick_set_share_2_pressed</item>
+	<item name="drawable/quick_set_share_3">@drawable/com_anydo_quick_set_share_3</item>
+	<item name="drawable/quick_set_share_3_pressed">@drawable/com_anydo_quick_set_share_3_pressed</item>
+	<item name="drawable/quick_set_share_4">@drawable/com_anydo_quick_set_share_4</item>
+	<item name="drawable/quick_set_share_4_pressed">@drawable/com_anydo_quick_set_share_4_pressed</item>
+	<item name="drawable/quick_set_share_5">@drawable/com_anydo_quick_set_share_5</item>
+	<item name="drawable/quick_set_share_5_pressed">@drawable/com_anydo_quick_set_share_5_pressed</item>
+	<item name="drawable/quick_set_share_6">@drawable/com_anydo_quick_set_share_6</item>
+	<item name="drawable/quick_set_share_6_pressed">@drawable/com_anydo_quick_set_share_6_pressed</item>
+	<item name="drawable/splash_screen">@drawable/com_anydo_splash_screen</item>
+</resource-redirections>
