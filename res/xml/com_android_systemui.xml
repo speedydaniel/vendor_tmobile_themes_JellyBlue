@@ -6,6 +6,28 @@
 	<item name="style/TextAppearance.StatusBar.BatteryTextOnly_Plugged">@style/TextAppearance.StatusBar.BatteryTextOnly_Plugged</item>
 	<item name="style/TextAppearance.StatusBar.PhoneTicker">@style/TextAppearance.StatusBar.PhoneTicker</item>
 	<!-- png -->
+	<item name="drawable/ic_menu_share">@drawable/com_android_systemui_ic_menu_share</item>
+	<item name="drawable/ic_sysbar_back">@drawable/com_android_systemui_ic_sysbar_back</item>
+	<item name="drawable/ic_sysbar_back_ime">@drawable/com_android_systemui_ic_sysbar_back_ime</item>
+	<item name="drawable/ic_sysbar_back_land">@drawable/com_android_systemui_ic_sysbar_back_land</item>
+	<item name="drawable/ic_sysbar_home">@drawable/com_android_systemui_ic_sysbar_home</item>
+	<item name="drawable/ic_sysbar_home_land">@drawable/com_android_systemui_ic_sysbar_home_land</item>
+	<item name="drawable/ic_sysbar_ime_default">@drawable/com_android_systemui_ic_sysbar_ime_default</item>
+	<item name="drawable/ic_sysbar_ime_switcher">@drawable/com_android_systemui_ic_sysbar_ime_switcher</item>
+	<item name="drawable/ic_sysbar_killtask">@drawable/com_android_systemui_ic_sysbar_killtask</item>
+	<item name="drawable/ic_sysbar_lights_out_dot_large">@drawable/com_android_systemui_ic_sysbar_lights_out_dot_large</item>
+	<item name="drawable/ic_sysbar_lights_out_dot_small">@drawable/com_android_systemui_ic_sysbar_lights_out_dot_small</item>
+	<item name="drawable/ic_sysbar_menu">@drawable/com_android_systemui_ic_sysbar_menu</item>
+	<item name="drawable/ic_sysbar_menu_big">@drawable/com_android_systemui_ic_sysbar_menu_big</item>
+	<item name="drawable/ic_sysbar_menu_land">@drawable/com_android_systemui_ic_sysbar_menu_land</item>
+	<item name="drawable/ic_sysbar_notifications">@drawable/com_android_systemui_ic_sysbar_notifications</item>
+	<item name="drawable/ic_sysbar_null">@drawable/com_android_systemui_ic_sysbar_null</item>
+	<item name="drawable/ic_sysbar_power">@drawable/com_android_systemui_ic_sysbar_power</item>
+	<item name="drawable/ic_sysbar_recent">@drawable/com_android_systemui_ic_sysbar_recent</item>
+	<item name="drawable/ic_sysbar_recent_land">@drawable/com_android_systemui_ic_sysbar_recent_land</item>
+	<item name="drawable/ic_sysbar_screenshot">@drawable/com_android_systemui_ic_sysbar_screenshot</item>
+	<item name="drawable/ic_sysbar_search">@drawable/com_android_systemui_ic_sysbar_search</item>
+
 	<item name="drawable/btn_default_small_normal">@drawable/frameworks_res_btn_default_small_normal</item>
 	<item name="drawable/btn_default_small_normal_disable">@drawable/frameworks_res_btn_default_small_normal_disable</item>
 	<item name="drawable/btn_default_small_normal_disable_focused">@drawable/frameworks_res_btn_default_small_normal_disable_focused</item>
