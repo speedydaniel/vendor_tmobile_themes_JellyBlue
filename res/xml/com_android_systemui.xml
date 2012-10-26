@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
-    <item name="style/TextAppearance.StatusBar.Expanded.Clock">@style/TextAppearance.StatusBar.Expanded.Clock</item>
-    <item name="style/TextAppearance.StatusBar.Expanded.Date">@style/TextAppearance.StatusBar.Expanded.Date</item>
-    <item name="style/TextAppearance.StatusBar.BatteryTextOnly_Plugged">@style/TextAppearance.StatusBar.BatteryTextOnly_Plugged</item>
-    <item name="style/TextAppearance.StatusBar.PhoneTicker">@style/TextAppearance.StatusBar.PhoneTicker</item>
-    <item name="drawable/btn_default_small_normal">@drawable/frameworks_res_btn_default_small_normal</item>
+	<!-- styles -->
+	<item name="style/TextAppearance.StatusBar.Expanded.Clock">@style/TextAppearance.StatusBar.Expanded.Clock</item>
+	<item name="style/TextAppearance.StatusBar.Expanded.Date">@style/TextAppearance.StatusBar.Expanded.Date</item>
+	<item name="style/TextAppearance.StatusBar.BatteryTextOnly_Plugged">@style/TextAppearance.StatusBar.BatteryTextOnly_Plugged</item>
+	<item name="style/TextAppearance.StatusBar.PhoneTicker">@style/TextAppearance.StatusBar.PhoneTicker</item>
+	<!-- png -->
+	<item name="drawable/btn_default_small_normal">@drawable/frameworks_res_btn_default_small_normal</item>
 	<item name="drawable/btn_default_small_normal_disable">@drawable/frameworks_res_btn_default_small_normal_disable</item>
 	<item name="drawable/btn_default_small_normal_disable_focused">@drawable/frameworks_res_btn_default_small_normal_disable_focused</item>
 	<item name="drawable/btn_default_small_pressed">@drawable/frameworks_res_btn_default_small_pressed</item>
@@ -77,4 +79,34 @@
 	<item name="drawable/toggle_wifi_ap">@drawable/com_android_systemui_toggle_wifi_ap</item>
 	<item name="drawable/toggle_wifi_ap_off">@drawable/com_android_systemui_toggle_wifi_ap_off</item>
 	<item name="drawable/toggle_wifi_off">@drawable/com_android_systemui_toggle_wifi_off</item>
+	<!-- signal -->
+	<item name="drawable/stat_sys_signal_0">@drawable/com_android_systemui_stat_sys_signal_0</item>
+	<item name="drawable/stat_sys_signal_0_alt">@drawable/com_android_systemui_stat_sys_signal_0_alt</item>
+	<item name="drawable/stat_sys_signal_0_fully">@drawable/com_android_systemui_stat_sys_signal_0_fully</item>
+	<item name="drawable/stat_sys_signal_0_fully_alt">@drawable/com_android_systemui_stat_sys_signal_0_fully_alt</item>
+	<item name="drawable/stat_sys_signal_1">@drawable/com_android_systemui_stat_sys_signal_1</item>
+	<item name="drawable/stat_sys_signal_1_alt">@drawable/com_android_systemui_stat_sys_signal_1_alt</item>
+	<item name="drawable/stat_sys_signal_1_fully">@drawable/com_android_systemui_stat_sys_signal_1_fully</item>
+	<item name="drawable/stat_sys_signal_1_fully_alt">@drawable/com_android_systemui_stat_sys_signal_1_fully_alt</item>
+	<item name="drawable/stat_sys_signal_2">@drawable/com_android_systemui_stat_sys_signal_2</item>
+	<item name="drawable/stat_sys_signal_2_alt">@drawable/com_android_systemui_stat_sys_signal_2_alt</item>
+	<item name="drawable/stat_sys_signal_2_fully">@drawable/com_android_systemui_stat_sys_signal_2_fully</item>
+	<item name="drawable/stat_sys_signal_2_fully_alt">@drawable/com_android_systemui_stat_sys_signal_2_fully_alt</item>
+	<item name="drawable/stat_sys_signal_3">@drawable/com_android_systemui_stat_sys_signal_3</item>
+	<item name="drawable/stat_sys_signal_3_alt">@drawable/com_android_systemui_stat_sys_signal_3_alt</item>
+	<item name="drawable/stat_sys_signal_3_fully">@drawable/com_android_systemui_stat_sys_signal_3_fully</item>
+	<item name="drawable/stat_sys_signal_3_fully_alt">@drawable/com_android_systemui_stat_sys_signal_3_fully_alt</item>
+	<item name="drawable/stat_sys_signal_4">@drawable/com_android_systemui_stat_sys_signal_4</item>
+	<item name="drawable/stat_sys_signal_4_alt">@drawable/com_android_systemui_stat_sys_signal_4_alt</item>
+	<item name="drawable/stat_sys_signal_4_fully">@drawable/com_android_systemui_stat_sys_signal_4_fully</item>
+	<item name="drawable/stat_sys_signal_4_fully_alt">@drawable/com_android_systemui_stat_sys_signal_4_fully_alt</item>
+	<item name="drawable/stat_sys_wifi_signal_0">@drawable/com_android_systemui_stat_sys_wifi_signal_0</item>
+	<item name="drawable/stat_sys_wifi_signal_1">@drawable/com_android_systemui_stat_sys_wifi_signal_1</item>
+	<item name="drawable/stat_sys_wifi_signal_1_fully">@drawable/com_android_systemui_stat_sys_wifi_signal_1_fully</item>
+	<item name="drawable/stat_sys_wifi_signal_2">@drawable/com_android_systemui_stat_sys_wifi_signal_2</item>
+	<item name="drawable/stat_sys_wifi_signal_2_fully">@drawable/com_android_systemui_stat_sys_wifi_signal_2_fully</item>
+	<item name="drawable/stat_sys_wifi_signal_3">@drawable/com_android_systemui_stat_sys_wifi_signal_3</item>
+	<item name="drawable/stat_sys_wifi_signal_3_fully">@drawable/com_android_systemui_stat_sys_wifi_signal_3_fully</item>
+	<item name="drawable/stat_sys_wifi_signal_4">@drawable/com_android_systemui_stat_sys_wifi_signal_4</item>
+	<item name="drawable/stat_sys_wifi_signal_4_fully">@drawable/com_android_systemui_stat_sys_wifi_signal_4_fully</item>
 </resource-redirections>
