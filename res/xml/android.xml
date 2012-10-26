@@ -365,6 +365,8 @@
 	<item name="drawable/spinner_white_16">@drawable/frameworks_res_spinner_white_16</item>
 	<item name="drawable/spinner_white_48">@drawable/frameworks_res_spinner_white_48</item>
 	<item name="drawable/spinner_white_76">@drawable/frameworks_res_spinner_white_76</item>
+	<item name="drawable/default_wallpaper">@drawable/frameworks_res_default_wallpaper</item>
+
 	<!-- styles -->
 	<item name="style/TextAppearance.Holo.Widget.Switch">@style/TextAppearance.Holo.Widget.Switch</item>
 	<item name="style/TextAppearance.Small">@style/TextAppearance.Small</item>
