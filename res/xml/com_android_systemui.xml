@@ -4,11 +4,11 @@
     <item name="style/TextAppearance.StatusBar.Expanded.Date">@style/TextAppearance.StatusBar.Expanded.Date</item>
     <item name="style/TextAppearance.StatusBar.BatteryTextOnly_Plugged">@style/TextAppearance.StatusBar.BatteryTextOnly_Plugged</item>
     <item name="style/TextAppearance.StatusBar.PhoneTicker">@style/TextAppearance.StatusBar.PhoneTicker</item>
-    <item name="drawable/btn_default_small_normal">@drawable/com_android_systemui_btn_default_small_normal</item>
-	<item name="drawable/btn_default_small_normal_disable">@drawable/com_android_systemui_btn_default_small_normal_disable</item>
-	<item name="drawable/btn_default_small_normal_disable_focused">@drawable/com_android_systemui_btn_default_small_normal_disable_focused</item>
-	<item name="drawable/btn_default_small_pressed">@drawable/com_android_systemui_btn_default_small_pressed</item>
-	<item name="drawable/btn_default_small_selected">@drawable/com_android_systemui_btn_default_small_selected</item>
+    <item name="drawable/btn_default_small_normal">@drawable/frameworks_res_btn_default_small_normal</item>
+	<item name="drawable/btn_default_small_normal_disable">@drawable/frameworks_res_btn_default_small_normal_disable</item>
+	<item name="drawable/btn_default_small_normal_disable_focused">@drawable/frameworks_res_btn_default_small_normal_disable_focused</item>
+	<item name="drawable/btn_default_small_pressed">@drawable/frameworks_res_btn_default_small_pressed</item>
+	<item name="drawable/btn_default_small_selected">@drawable/frameworks_res_btn_default_small_selected</item>
 	<item name="drawable/status_bar_bg_tile">@drawable/com_android_systemui_status_bar_bg_tile</item>
 	<item name="drawable/status_bar_close_off">@drawable/com_android_systemui_status_bar_close_off</item>
 	<item name="drawable/status_bar_close_on">@drawable/com_android_systemui_status_bar_close_on</item>

@@ -1,24 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resource-redirections> 	
-	<item name="drawable/switch_bg_disabled_holo_dark">@drawable/frameworks_res_switch_bg_disabled_holo_dark</item>
-	<item name="drawable/switch_bg_disabled_holo_light">@drawable/frameworks_res_switch_bg_disabled_holo_light</item>
-	<item name="drawable/switch_bg_focused_holo_dark">@drawable/frameworks_res_switch_bg_focused_holo_dark</item>
-	<item name="drawable/switch_bg_focused_holo_light">@drawable/frameworks_res_switch_bg_focused_holo_light</item>
-	<item name="drawable/switch_bg_holo_dark">@drawable/frameworks_res_switch_bg_holo_dark</item>
-	<item name="drawable/switch_bg_holo_light">@drawable/frameworks_res_switch_bg_holo_light</item>
-	<item name="drawable/switch_thumb_activated_holo_dark">@drawable/frameworks_res_switch_thumb_activated_holo_dark</item>
-	<item name="drawable/switch_thumb_activated_holo_light">@drawable/frameworks_res_switch_thumb_activated_holo_light</item>
-	<item name="drawable/switch_thumb_disabled_holo_dark">@drawable/frameworks_res_switch_thumb_disabled_holo_dark</item>
-	<item name="drawable/switch_thumb_disabled_holo_light">@drawable/frameworks_res_switch_thumb_disabled_holo_light</item>
-	<item name="drawable/switch_thumb_holo_dark">@drawable/frameworks_res_switch_thumb_holo_dark</item>
-	<item name="drawable/switch_thumb_holo_light">@drawable/frameworks_res_switch_thumb_holo_light</item>
-	<item name="drawable/switch_thumb_pressed_holo_dark">@drawable/frameworks_res_switch_thumb_pressed_holo_dark</item>
-	<item name="drawable/switch_thumb_pressed_holo_light">@drawable/frameworks_res_switch_thumb_pressed_holo_light</item>
-	<item name="drawable/platlogo">@drawable/frameworks_res_platlogo</item>
-	<item name="drawable/platlogo_alt">@drawable/frameworks_res_platlogo_alt</item>
-
-	<item name="drawable/default_wallpaper">@drawable/frameworks_res_default_wallpaper</item>
+<resource-redirections>
+<!-- xml -->
 	<item name="drawable/progress_horizontal">@drawable/frameworks_res_progress_horizontal</item>
+	<item name="drawable/progress_large">@drawable/frameworks_res_progress_large</item>
+	<item name="drawable/progress_large_holo">@drawable/frameworks_res_progress_large_holo</item>
+	<item name="drawable/progress_large_white">@drawable/frameworks_res_progress_large_white</item>
+	<item name="drawable/progress_medium">@drawable/frameworks_res_progress_medium</item>
+	<item name="drawable/progress_medium_holo">@drawable/frameworks_res_progress_medium_holo</item>
+	<item name="drawable/progress_medium_white">@drawable/frameworks_res_progress_medium_white</item>
+	<item name="drawable/progress_small">@drawable/frameworks_res_progress_small</item>
+	<item name="drawable/progress_small_holo">@drawable/frameworks_res_progress_small_holo</item>
+	<item name="drawable/progress_small_titlebar">@drawable/frameworks_res_progress_small_titlebar</item>
+	<item name="drawable/progress_small_white">@drawable/frameworks_res_progress_small_white</item>
+<!-- png -->
+	<item name="drawable/btn_lock_normal">@drawable/frameworks_res_btn_lock_normal</item>
 	<item name="drawable/ab_bottom_solid_dark_holo">@drawable/frameworks_res_ab_bottom_solid_dark_holo</item>
 	<item name="drawable/ab_bottom_solid_inverse_holo">@drawable/frameworks_res_ab_bottom_solid_inverse_holo</item>
 	<item name="drawable/ab_solid_dark_holo">@drawable/frameworks_res_ab_solid_dark_holo</item>
@@ -53,10 +48,23 @@
 	<item name="drawable/btn_default_normal_disable_focused">@drawable/frameworks_res_btn_default_normal_disable_focused</item>
 	<item name="drawable/btn_default_pressed">@drawable/frameworks_res_btn_default_pressed</item>
 	<item name="drawable/btn_default_selected">@drawable/frameworks_res_btn_default_selected</item>
+	<item name="drawable/btn_default_small_normal_disable_focused">@drawable/frameworks_res_btn_default_small_normal_disable_focused</item>
+	<item name="drawable/btn_default_small_pressed">@drawable/frameworks_res_btn_default_small_pressed</item>
+	<item name="drawable/btn_default_small_selected">@drawable/frameworks_res_btn_default_small_selected</item>
 	<item name="drawable/btn_default_transparent_normal">@drawable/frameworks_res_btn_default_transparent_normal</item>
 	<item name="drawable/btn_dialog_disable">@drawable/frameworks_res_btn_dialog_disable</item>
 	<item name="drawable/btn_dialog_normal">@drawable/frameworks_res_btn_dialog_normal</item>
 	<item name="drawable/btn_dialog_pressed">@drawable/frameworks_res_btn_dialog_pressed</item>
+	<item name="drawable/btn_dropdown_disabled_focused">@drawable/frameworks_res_btn_dropdown_disabled_focused</item>
+	<item name="drawable/btn_dropdown_pressed">@drawable/frameworks_res_btn_dropdown_pressed</item>
+	<item name="drawable/btn_dropdown_selected">@drawable/frameworks_res_btn_dropdown_selected</item>
+	<item name="drawable/btn_erase_pressed">@drawable/frameworks_res_btn_erase_pressed</item>
+	<item name="drawable/btn_erase_selected">@drawable/frameworks_res_btn_erase_selected</item>
+	<item name="drawable/btn_keyboard_key_trans_pressed">@drawable/frameworks_res_btn_keyboard_key_trans_pressed</item>
+	<item name="drawable/btn_keyboard_key_trans_selected">@drawable/frameworks_res_btn_keyboard_key_trans_selected</item>
+	<item name="drawable/btn_media_player_disabled_selected">@drawable/frameworks_res_btn_media_player_disabled_selected</item>
+	<item name="drawable/btn_media_player_pressed">@drawable/frameworks_res_btn_media_player_pressed</item>
+	<item name="drawable/btn_media_player_selected">@drawable/frameworks_res_btn_media_player_selected</item>
 	<item name="drawable/btn_minus_default">@drawable/frameworks_res_btn_minus_default</item>
 	<item name="drawable/btn_minus_disable">@drawable/frameworks_res_btn_minus_disable</item>
 	<item name="drawable/btn_minus_disable_focused">@drawable/frameworks_res_btn_minus_disable_focused</item>
@@ -123,7 +131,16 @@
 	<item name="drawable/dialog_middle_holo_light">@drawable/frameworks_res_dialog_middle_holo_light</item>
 	<item name="drawable/dialog_top_holo_dark">@drawable/frameworks_res_dialog_top_holo_dark</item>
 	<item name="drawable/dialog_top_holo_light">@drawable/frameworks_res_dialog_top_holo_light</item>
+	<item name="drawable/editbox_background_focus_yellow">@drawable/frameworks_res_editbox_background_focus_yellow</item>
+	<item name="drawable/edit_query_background_pressed">@drawable/frameworks_res_edit_query_background_pressed</item>
+	<item name="drawable/edit_query_background_selected">@drawable/frameworks_res_edit_query_background_selected</item>
+	<item name="drawable/expander_close_holo_dark">@drawable/frameworks_res_expander_close_holo_dark</item>
+	<item name="drawable/expander_open_holo_dark">@drawable/frameworks_res_expander_open_holo_dark</item>
 	<item name="drawable/focused_application_background_static">@drawable/frameworks_res_focused_application_background_static</item>
+	<item name="drawable/ic_menu_moreoverflow_normal_holo_dark">@drawable/frameworks_res_ic_menu_moreoverflow_normal_holo_dark</item>
+	<item name="drawable/frame_gallery_thumb">@drawable/frameworks_res_frame_gallery_thumb</item>
+	<item name="drawable/frame_gallery_thumb_pressed">@drawable/frameworks_res_frame_gallery_thumb_pressed</item>
+	<item name="drawable/frame_gallery_thumb_selected">@drawable/frameworks_res_frame_gallery_thumb_selected</item>
 	<item name="drawable/gallery_selected_default">@drawable/frameworks_res_gallery_selected_default</item>
 	<item name="drawable/gallery_selected_focused">@drawable/frameworks_res_gallery_selected_focused</item>
 	<item name="drawable/gallery_selected_pressed">@drawable/frameworks_res_gallery_selected_pressed</item>
@@ -134,6 +151,20 @@
 	<item name="drawable/highlight_disabled">@drawable/frameworks_res_highlight_disabled</item>
 	<item name="drawable/highlight_pressed">@drawable/frameworks_res_highlight_pressed</item>
 	<item name="drawable/highlight_selected">@drawable/frameworks_res_highlight_selected</item>
+	<item name="drawable/ic_ab_back_holo_dark">@drawable/frameworks_res_ic_ab_back_holo_dark</item>
+	<item name="drawable/ic_cab_done_holo_dark">@drawable/frameworks_res_ic_cab_done_holo_dark</item>
+	<item name="drawable/ic_commit_search_api_holo_dark">@drawable/frameworks_res_ic_commit_search_api_holo_dark</item>
+	<item name="drawable/ic_dialog_alert_holo_dark">@drawable/frameworks_res_ic_dialog_alert_holo_dark</item>
+	<item name="drawable/ic_find_next_holo_dark">@drawable/frameworks_res_ic_find_next_holo_dark</item>
+	<item name="drawable/ic_find_previous_holo_dark">@drawable/frameworks_res_ic_find_previous_holo_dark</item>
+	<item name="drawable/ic_media_route_disabled_holo_dark">@drawable/frameworks_res_ic_media_route_disabled_holo_dark</item>
+	<item name="drawable/ic_media_route_off_holo_dark">@drawable/frameworks_res_ic_media_route_off_holo_dark</item>
+	<item name="drawable/ic_menu_copy_holo_dark">@drawable/frameworks_res_ic_menu_copy_holo_dark</item>
+	<item name="drawable/ic_menu_cut_holo_dark">@drawable/frameworks_res_ic_menu_cut_holo_dark</item>
+	<item name="drawable/ic_menu_moreoverflow_normal_holo_dark">@drawable/frameworks_res_ic_menu_moreoverflow_normal_holo_dark</item>
+	<item name="drawable/ic_menu_paste_holo_dark">@drawable/frameworks_res_ic_menu_paste_holo_dark</item>
+	<item name="drawable/ic_menu_selectall_holo_dark">@drawable/frameworks_res_ic_menu_selectall_holo_dark</item>
+	<item name="drawable/ic_menu_share_holo_dark">@drawable/frameworks_res_ic_menu_share_holo_dark</item>
 	<item name="drawable/ic_search_category_default">@drawable/frameworks_res_ic_search_category_default</item>
 	<item name="drawable/list_selector_activated_holo_dark">@drawable/frameworks_res_list_selector_activated_holo_dark</item>
 	<item name="drawable/list_selector_activated_holo_light">@drawable/frameworks_res_list_selector_activated_holo_light</item>
@@ -185,7 +216,6 @@
 	<item name="drawable/popup_top_bright">@drawable/frameworks_res_popup_top_bright</item>
 	<item name="drawable/popup_top_dark">@drawable/frameworks_res_popup_top_dark</item>
 	<item name="drawable/pressed_application_background_static">@drawable/frameworks_res_pressed_application_background_static</item>
-	<item name="drawable/preview">@drawable/frameworks_res_preview</item>
 	<item name="drawable/progress_bg_holo_dark">@drawable/frameworks_res_progress_bg_holo_dark</item>
 	<item name="drawable/progress_bg_holo_light">@drawable/frameworks_res_progress_bg_holo_light</item>
 	<item name="drawable/progress_primary_holo_dark">@drawable/frameworks_res_progress_primary_holo_dark</item>
@@ -207,16 +237,20 @@
 	<item name="drawable/seek_thumb_normal">@drawable/frameworks_res_seek_thumb_normal</item>
 	<item name="drawable/seek_thumb_pressed">@drawable/frameworks_res_seek_thumb_pressed</item>
 	<item name="drawable/seek_thumb_selected">@drawable/frameworks_res_seek_thumb_selected</item>
-	<item name="drawable/spinner_black_16">@drawable/frameworks_res_spinner_black_16</item>
-	<item name="drawable/spinner_black_20">@drawable/frameworks_res_spinner_black_20</item>
-	<item name="drawable/spinner_black_48">@drawable/frameworks_res_spinner_black_48</item>
-	<item name="drawable/spinner_black_76">@drawable/frameworks_res_spinner_black_76</item>
-	<item name="drawable/spinner_normal">@drawable/frameworks_res_spinner_normal</item>
-	<item name="drawable/spinner_press">@drawable/frameworks_res_spinner_press</item>
-	<item name="drawable/spinner_select">@drawable/frameworks_res_spinner_select</item>
-	<item name="drawable/spinner_white_16">@drawable/frameworks_res_spinner_white_16</item>
-	<item name="drawable/spinner_white_48">@drawable/frameworks_res_spinner_white_48</item>
-	<item name="drawable/spinner_white_76">@drawable/frameworks_res_spinner_white_76</item>
+	<item name="drawable/switch_bg_disabled_holo_dark">@drawable/frameworks_res_switch_bg_disabled_holo_dark</item>
+	<item name="drawable/switch_bg_disabled_holo_light">@drawable/frameworks_res_switch_bg_disabled_holo_light</item>
+	<item name="drawable/switch_bg_focused_holo_dark">@drawable/frameworks_res_switch_bg_focused_holo_dark</item>
+	<item name="drawable/switch_bg_focused_holo_light">@drawable/frameworks_res_switch_bg_focused_holo_light</item>
+	<item name="drawable/switch_bg_holo_dark">@drawable/frameworks_res_switch_bg_holo_dark</item>
+	<item name="drawable/switch_bg_holo_light">@drawable/frameworks_res_switch_bg_holo_light</item>
+	<item name="drawable/switch_thumb_activated_holo_dark">@drawable/frameworks_res_switch_thumb_activated_holo_dark</item>
+	<item name="drawable/switch_thumb_activated_holo_light">@drawable/frameworks_res_switch_thumb_activated_holo_light</item>
+	<item name="drawable/switch_thumb_disabled_holo_dark">@drawable/frameworks_res_switch_thumb_disabled_holo_dark</item>
+	<item name="drawable/switch_thumb_disabled_holo_light">@drawable/frameworks_res_switch_thumb_disabled_holo_light</item>
+	<item name="drawable/switch_thumb_holo_dark">@drawable/frameworks_res_switch_thumb_holo_dark</item>
+	<item name="drawable/switch_thumb_holo_light">@drawable/frameworks_res_switch_thumb_holo_light</item>
+	<item name="drawable/switch_thumb_pressed_holo_dark">@drawable/frameworks_res_switch_thumb_pressed_holo_dark</item>
+	<item name="drawable/switch_thumb_pressed_holo_light">@drawable/frameworks_res_switch_thumb_pressed_holo_light</item>
 	<item name="drawable/tab_focus">@drawable/frameworks_res_tab_focus</item>
 	<item name="drawable/tab_focus_bar_left">@drawable/frameworks_res_tab_focus_bar_left</item>
 	<item name="drawable/tab_focus_bar_right">@drawable/frameworks_res_tab_focus_bar_right</item>
@@ -247,17 +281,7 @@
 	<item name="drawable/unknown_image">@drawable/frameworks_res_unknown_image</item>
 	<item name="drawable/usb_android">@drawable/frameworks_res_usb_android</item>
 	<item name="drawable/usb_android_connected">@drawable/frameworks_res_usb_android_connected</item>
-	<item name="drawable/editbox_background_focus_yellow">@drawable/framework_res_editbox_background_focus_yellow</item>
-	<item name="drawable/edit_query_background_pressed">@drawable/framework_res_edit_query_background_pressed</item>
-	<item name="drawable/edit_query_background_selected">@drawable/framework_res_edit_query_background_selected</item>
-	<item name="drawable/focused_application_background_static">@drawable/framework_res_focused_application_background_static</item>
-	<item name="drawable/frame_gallery_thumb">@drawable/framework_res_frame_gallery_thumb</item>
-	<item name="drawable/frame_gallery_thumb_pressed">@drawable/framework_res_frame_gallery_thumb_pressed</item>
-	<item name="drawable/frame_gallery_thumb_selected">@drawable/framework_res_frame_gallery_thumb_selected</item>
-
 	<!-- styles -->
-	<item name="style/Theme.Holo.Light.Dialog">android:style/Theme.Holo.Dialog</item>
-	<item name="style/Theme.Holo.Light.Dialog.Alert">android:style/Theme.Holo.Dialog.Alert</item>
 	<item name="style/TextAppearance.Holo.Widget.Switch">@style/TextAppearance.Holo.Widget.Switch</item>
 	<item name="style/TextAppearance.Small">@style/TextAppearance.Small</item>
 </resource-redirections>
