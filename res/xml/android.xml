@@ -350,6 +350,21 @@
 	<item name="drawable/unknown_image">@drawable/frameworks_res_unknown_image</item>
 	<item name="drawable/usb_android">@drawable/frameworks_res_usb_android</item>
 	<item name="drawable/usb_android_connected">@drawable/frameworks_res_usb_android_connected</item>
+	<item name="drawable/spinner_16_inner_holo">@drawable/frameworks_res_spinner_16_inner_holo</item>
+	<item name="drawable/spinner_16_outer_holo">@drawable/frameworks_res_spinner_16_outer_holo</item>
+	<item name="drawable/spinner_20_inner_holo">@drawable/frameworks_res_spinner_20_inner_holo</item>
+	<item name="drawable/spinner_20_outer_holo">@drawable/frameworks_res_spinner_20_outer_holo</item>
+	<item name="drawable/spinner_48_inner_holo">@drawable/frameworks_res_spinner_48_inner_holo</item>
+	<item name="drawable/spinner_48_outer_holo">@drawable/frameworks_res_spinner_48_outer_holo</item>
+	<item name="drawable/spinner_76_inner_holo">@drawable/frameworks_res_spinner_76_inner_holo</item>
+	<item name="drawable/spinner_76_outer_holo">@drawable/frameworks_res_spinner_76_outer_holo</item>
+	<item name="drawable/spinner_black_16">@drawable/frameworks_res_spinner_black_16</item>
+	<item name="drawable/spinner_black_20">@drawable/frameworks_res_spinner_black_20</item>
+	<item name="drawable/spinner_black_48">@drawable/frameworks_res_spinner_black_48</item>
+	<item name="drawable/spinner_black_76">@drawable/frameworks_res_spinner_black_76</item>
+	<item name="drawable/spinner_white_16">@drawable/frameworks_res_spinner_white_16</item>
+	<item name="drawable/spinner_white_48">@drawable/frameworks_res_spinner_white_48</item>
+	<item name="drawable/spinner_white_76">@drawable/frameworks_res_spinner_white_76</item>
 	<!-- styles -->
 	<item name="style/TextAppearance.Holo.Widget.Switch">@style/TextAppearance.Holo.Widget.Switch</item>
 	<item name="style/TextAppearance.Small">@style/TextAppearance.Small</item>
