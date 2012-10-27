@@ -13,8 +13,10 @@
 	<item name="drawable/progress_small_titlebar">@drawable/frameworks_res_progress_small_titlebar</item>
 	<item name="drawable/progress_small_white">@drawable/frameworks_res_progress_small_white</item>
 	<!-- lockscreen -->
+
 	<item name="drawable/ic_lockscreen_alarm_activated">@drawable/ic_lockscreen_alarm_activated</item>
 	<item name="drawable/ic_lockscreen_alarm_normal">@drawable/ic_lockscreen_alarm_normal</item>
+	<item name="drawable/ic_lockscreen_answer_focused">@drawable/ic_lockscreen_answer_focused</item>
 	<item name="drawable/ic_lockscreen_browser2_activated">@drawable/ic_lockscreen_browser2_activated</item>
 	<item name="drawable/ic_lockscreen_browser2_normal">@drawable/ic_lockscreen_browser2_normal</item>
 	<item name="drawable/ic_lockscreen_browser_activated">@drawable/ic_lockscreen_browser_activated</item>
@@ -29,6 +31,7 @@
 	<item name="drawable/ic_lockscreen_chevron_left">@drawable/ic_lockscreen_chevron_left</item>
 	<item name="drawable/ic_lockscreen_chevron_right">@drawable/ic_lockscreen_chevron_right</item>
 	<item name="drawable/ic_lockscreen_chevron_up">@drawable/ic_lockscreen_chevron_up</item>
+	<item name="drawable/ic_lockscreen_decline_focused">@drawable/ic_lockscreen_decline_focused</item>
 	<item name="drawable/ic_lockscreen_email_activated">@drawable/ic_lockscreen_email_activated</item>
 	<item name="drawable/ic_lockscreen_email_normal">@drawable/ic_lockscreen_email_normal</item>
 	<item name="drawable/ic_lockscreen_emergencycall_normal">@drawable/ic_lockscreen_emergencycall_normal</item>
@@ -38,6 +41,8 @@
 	<item name="drawable/ic_lockscreen_gallery_activated">@drawable/ic_lockscreen_gallery_activated</item>
 	<item name="drawable/ic_lockscreen_gallery_normal">@drawable/ic_lockscreen_gallery_normal</item>
 	<item name="drawable/ic_lockscreen_glowdot">@drawable/ic_lockscreen_glowdot</item>
+	<item name="drawable/ic_lockscreen_google_activated">@drawable/ic_lockscreen_google_activated</item>
+	<item name="drawable/ic_lockscreen_google_focused">@drawable/ic_lockscreen_google_focused</item>
 	<item name="drawable/ic_lockscreen_google_normal">@drawable/ic_lockscreen_google_normal</item>
 	<item name="drawable/ic_lockscreen_gplus_activated">@drawable/ic_lockscreen_gplus_activated</item>
 	<item name="drawable/ic_lockscreen_gplus_normal">@drawable/ic_lockscreen_gplus_normal</item>
@@ -78,7 +83,11 @@
 	<item name="drawable/ic_lockscreen_twitter_normal">@drawable/ic_lockscreen_twitter_normal</item>
 	<item name="drawable/ic_lockscreen_unlock_activated">@drawable/ic_lockscreen_unlock_activated</item>
 	<item name="drawable/ic_lockscreen_unlock_normal">@drawable/ic_lockscreen_unlock_normal</item>
+	<item name="drawable/ic_lock_airplane_mode_off">@drawable/ic_lock_airplane_mode_off</item>
+	<item name="drawable/ic_lock_power_off">@drawable/ic_lock_power_off</item>
+	<item name="drawable/ic_lock_reboot">@drawable/ic_lock_reboot</item>
 	<item name="drawable/ic_lock_screenshot">@drawable/ic_lock_screenshot</item>
+	<item name="drawable/ic_lock_silent_mode_off">@drawable/ic_lock_silent_mode_off</item>
 	<!-- png -->
 	<item name="drawable/btn_lock_normal">@drawable/frameworks_res_btn_lock_normal</item>
 	<item name="drawable/ab_bottom_solid_dark_holo">@drawable/frameworks_res_ab_bottom_solid_dark_holo</item>
