@@ -100,7 +100,6 @@
 	<item name="drawable/ab_solid_dark_holo">@drawable/frameworks_res_ab_solid_dark_holo</item>
 	<item name="drawable/ab_stacked_solid_dark_holo">@drawable/frameworks_res_ab_stacked_solid_dark_holo</item>
 	<item name="drawable/ab_stacked_solid_inverse_holo">@drawable/frameworks_res_ab_stacked_solid_inverse_holo</item>
-	<item name="drawable/activity_title_bar">@drawable/frameworks_res_activity_title_bar</item>
 	<item name="drawable/background_holo_dark">@drawable/frameworks_res_background_holo_dark</item>
 	<item name="drawable/bottom_bar">@drawable/frameworks_res_bottom_bar</item>
 	<item name="drawable/btn_cab_done_pressed_holo_dark">@drawable/frameworks_res_btn_cab_done_pressed_holo_dark</item>
@@ -378,8 +377,14 @@
 	<item name="drawable/spinner_white_48">@drawable/frameworks_res_spinner_white_48</item>
 	<item name="drawable/spinner_white_76">@drawable/frameworks_res_spinner_white_76</item>
 	<item name="drawable/default_wallpaper">@drawable/frameworks_res_default_wallpaper</item>
+	<item name="drawable/activity_title_bar">@drawable/frameworks_res_activity_title_bar</item>
+	<item name="drawable/title_bar_medium">@drawable/frameworks_res_title_bar_medium</item>
+	<item name="drawable/title_bar_portrait">@drawable/frameworks_res_title_bar_portrait</item>
+	<item name="drawable/title_bar_shadow">@drawable/frameworks_res_title_bar_shadow</item>
+	<item name="drawable/title_bar_tall">@drawable/frameworks_res_title_bar_tall</item>
 
 	<!-- styles -->
+	<item name="style/Theme.Holo.Light.DarkActionBar">@android:style/Theme.Holo</item>
 	<item name="style/TextAppearance.Holo.Widget.Switch">@style/TextAppearance.Holo.Widget.Switch</item>
 	<item name="style/TextAppearance.Small">@style/TextAppearance.Small</item>
 </resource-redirections>

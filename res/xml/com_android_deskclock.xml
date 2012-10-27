@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/holo_background">@drawable/holo_background</item>
+    <item name="drawable/alarm_alert_fullscreen_bg">@drawable/alarm_alert_fullscreen_bg</item>
+</resource-redirections>
