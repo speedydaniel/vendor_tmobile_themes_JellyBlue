@@ -18,18 +18,18 @@
 <manifest
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:pluto="http://www.w3.org/2001/pluto.html"
-    package="com.TUN_SD.theme.JellyBlue"
+    package="com.TUN_SD.theme.JellyBlue_X"
     android:hasCode="false"
-    android:versionCode="1" android:versionName="555">
+    android:versionCode="1" android:versionName="8.0beta">
 
-    <application name="JellyBlue" android:hasCode="false" android:icon="@drawable/icon" android:label="JellyBlue">
+    <application name="JellyBlue_X" android:hasCode="false" android:icon="@drawable/icon" android:label="JellyBlue_X">
     </application>
 
     <!-- Make sure this theme APK only shows up on appropriate devices. -->
     <uses-feature android:name="com.tmobile.software.themes" />
 
     <theme 
-        pluto:themeId="JellyBlue"
+        pluto:themeId="JellyBlue_X"
         pluto:styleId="@style/Black"
         pluto:name="@string/theme_name"
         pluto:preview="@drawable/preview"

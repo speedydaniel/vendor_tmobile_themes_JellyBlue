@@ -3,8 +3,8 @@ include $(CLEAR_VARS)
 
 LOCAL_MODULE_TAGS := optional
 
-LOCAL_PACKAGE_NAME := JellyBlue
+LOCAL_PACKAGE_NAME := JellyBlue_X
 
-LOCAL_AAPT_FLAGS := -c hdpi,xhdpi,sw600dp -x 10
+LOCAL_AAPT_FLAGS := -c mdpi,hdpi,xhdpi,sw600dp -x 10
 
 include $(BUILD_PACKAGE)
