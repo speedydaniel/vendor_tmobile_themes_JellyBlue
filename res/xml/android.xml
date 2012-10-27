@@ -13,7 +13,6 @@
 	<item name="drawable/progress_small_titlebar">@drawable/frameworks_res_progress_small_titlebar</item>
 	<item name="drawable/progress_small_white">@drawable/frameworks_res_progress_small_white</item>
 	<!-- lockscreen -->
-
 	<item name="drawable/ic_lockscreen_alarm_activated">@drawable/ic_lockscreen_alarm_activated</item>
 	<item name="drawable/ic_lockscreen_alarm_normal">@drawable/ic_lockscreen_alarm_normal</item>
 	<item name="drawable/ic_lockscreen_answer_focused">@drawable/ic_lockscreen_answer_focused</item>
@@ -88,6 +87,12 @@
 	<item name="drawable/ic_lock_reboot">@drawable/ic_lock_reboot</item>
 	<item name="drawable/ic_lock_screenshot">@drawable/ic_lock_screenshot</item>
 	<item name="drawable/ic_lock_silent_mode_off">@drawable/ic_lock_silent_mode_off</item>
+	<!-- divider -->
+	<item name="drawable/divider_horizontal_bright_opaque">@drawable/frameworks_res_divider_horizontal_bright_opaque</item>
+	<item name="drawable/divider_horizontal_dark_opaque">@drawable/frameworks_res_divider_horizontal_dark_opaque</item>
+	<item name="drawable/divider_vertical_bright_opaque">@drawable/frameworks_res_divider_vertical_bright_opaque</item>
+	<item name="drawable/divider_vertical_dark_opaque">@drawable/frameworks_res_divider_vertical_dark_opaque</item>
+	<item name="drawable/divider_vertical_holo_dark">@drawable/frameworks_res_divider_vertical_holo_dark</item>
 	<!-- png -->
 	<item name="drawable/btn_lock_normal">@drawable/frameworks_res_btn_lock_normal</item>
 	<item name="drawable/ab_bottom_solid_dark_holo">@drawable/frameworks_res_ab_bottom_solid_dark_holo</item>
