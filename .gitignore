@@ -13,3 +13,6 @@ res-final/
 bin/
 libs/
 
+
+#JAVA_HOME=/usr/local/jdk1.6.0_32
+
