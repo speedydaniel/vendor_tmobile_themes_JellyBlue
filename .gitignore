@@ -1,6 +1,6 @@
 # Can ignore specific files
 aapt
-.properties
+my.properties
 -resources
 
 # Use wildcards as well
