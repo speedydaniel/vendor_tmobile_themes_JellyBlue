@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+	<item name="drawable/background_dial_holo_dark">@drawable/framework_res_background_holo_dark</item>
+	<item name="color/message_recieved">@color/message_recieved</item>
+	<item name="color/message_sent">@color/message_sent</item>
+	<item name="color/widget_sender_text_color_read">@color/widget_sender_text_color_read</item>
+	<item name="color/widget_sender_text_color_unread">@color/widget_sender_text_color_unread</item>
+	<item name="color/widget_subject_text_color_read">@color/widget_subject_text_color_read</item>
+	<item name="color/widget_subject_text_color_unread">@color/widget_subject_text_color_unread</item>
+	<item name="drawable/ic_send_disabled_holo_dark">@drawable/ic_send_disabled_holo_dark</item>
+	<item name="drawable/ic_send_disabled_holo_light">@drawable/ic_send_disabled_holo_light</item>
+	<item name="drawable/ic_send_holo_dark">@drawable/ic_send_holo_dark</item>
+	<item name="drawable/ic_send_holo_light">@drawable/ic_send_holo_light</item>
+	<item name="drawable/ic_send_holo_light_quick_reply">@drawable/ic_send_holo_light_quick_reply</item>
+	<item name="drawable/ic_templates_holo_light">@drawable/ic_templates_holo_light</item>
+	<item name="drawable/ic_templates_holo_dark">@drawable/ic_templates_holo_dark</item>
+
+</resource-redirections>
