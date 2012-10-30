@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project name="JellyBlue_X" default="help">
+<project name="JellyBlue" default="help">
 
     <!-- ADD YOUR ANDROID SDK PATH TO THIS FILE -->
     <loadproperties srcFile="local.properties" />
