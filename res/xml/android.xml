@@ -254,7 +254,5 @@
 	<item name="drawable/frame_gallery_thumb_selected">@drawable/framework_res_frame_gallery_thumb_selected</item>
 
 	<!-- styles -->
-	<item name="style/Theme.Holo.Light.Dialog">android:style/Theme.Holo.Dialog</item>
-	<item name="style/Theme.Holo.Light.Dialog.Alert">android:style/Theme.Holo.Dialog.Alert</item>
 	<item name="style/TextAppearance.Holo.Widget.Switch">@style/TextAppearance.Holo.Widget.Switch</item>
 </resource-redirections>
